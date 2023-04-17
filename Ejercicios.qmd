@@ -1,0 +1,47 @@
+---
+title: "Cómo compartir datos entre miembros del equipo"
+subtitle: "Un subtitulo interesante"
+format: html
+editor: visual
+---
+
+## Generalidades
+
+En el laboratorio de Medicina Computacional compartimos los datos siguiendo la metodología propuesta por el laboratorio a cargo del Dr. Jeff Leek en la Facultad de Salud Pública de la Universidad de John Hopkins.
+
+## Los cuatro pasos para compartir datos entre nosotros y con los demás equipos:
+
+### 1. Datos crudos
+
+asdasdasd
+
+### 2. Datos *tidy* (limpios).
+
+asdasdsa
+
+### 3. Código de variables
+
+asdasdasdas
+
+### 4. Script reproducible
+
+asdasdasd
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
